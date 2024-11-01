@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/CoinChartProject/static/js/main.6ea395dd.js",
-    "index.html": "/CoinChartProject/index.html",
-    "main.6ea395dd.js.map": "/CoinChartProject/static/js/main.6ea395dd.js.map"
+    "main.js": "/ClockCoin/static/js/main.d4e366b4.js",
+    "index.html": "/ClockCoin/index.html",
+    "main.d4e366b4.js.map": "/ClockCoin/static/js/main.d4e366b4.js.map"
   },
   "entrypoints": [
-    "static/js/main.6ea395dd.js"
+    "static/js/main.d4e366b4.js"
   ]
 }
