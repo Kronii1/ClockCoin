@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/src/router/api.ts
+src/router/api.ts
 # testing
 /coverage
 
