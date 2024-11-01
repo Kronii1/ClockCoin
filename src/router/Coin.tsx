@@ -11,7 +11,7 @@ import styled from "styled-components";
 import Price from "./Price";
 import Chart from "./Chart";
 import { useQuery } from "react-query";
-import { fetchCoinInfo, fetchCoinTickers } from "./api";
+import { fetchCoinInfo, fetchCoinTickers } from "../api";
 
 interface IRouteParams {
   coinId: string;
