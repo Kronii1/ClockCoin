@@ -8,8 +8,8 @@
 /coverage
 
 # production
-/build
-/src/router/api.ts
+build
+src/router/api.ts
 # misc
 .DS_Store
 .env.local
