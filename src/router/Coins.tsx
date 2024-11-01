@@ -81,7 +81,7 @@ function Coins() {
         <Title>Clock's Coin</Title>
       </Header>
       {isLoading ? (
-        <Loader>Info loading... 'ㅅ'</Loader>
+        <Loader>Info loading...</Loader>
       ) : (
         <CoinsList>
           {data?.slice(0, 100).map((coin) => (

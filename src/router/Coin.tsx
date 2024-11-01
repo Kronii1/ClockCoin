@@ -202,11 +202,7 @@ function Coin() {
       </Link>
       <Header>
         <Title>
-          {state?.name
-            ? state.name
-            : loading
-            ? "Loading... 'ㅅ'"
-            : infoData?.name}
+          {state?.name ? state.name : loading ? "Loading..." : infoData?.name}
         </Title>
       </Header>
       {loading ? (
